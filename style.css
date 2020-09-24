@@ -136,9 +136,9 @@ ul.primary-manu li ul li a{}
 
 /*Slider section*/
 .slider-section{
-    background: url("https://ibb.co/MCqsxrj") no-repeat top center;
+   background: url(images/main-banner2.jpg) no-repeat top center;
     background-size: cover;
-    background-position: fixed;
+    background-attachment: fixed;
     
 }
 
